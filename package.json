@@ -1,0 +1,26 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "a news website for codiv-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folucode/covid-news.git"
+  },
+  "keywords": [
+    "covid",
+    "updates",
+    "corona",
+    "virus",
+    "news"
+  ],
+  "author": "ChukwuTosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/folucode/covid-news/issues"
+  },
+  "homepage": "https://github.com/folucode/covid-news#readme"
+}
